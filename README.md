@@ -1,3 +1,4 @@
+![Banner](https://i.ibb.co/1f7sGZdG/banner.png)
 # 🍎 Apple Music on Windows 10 LTSC  
 An Apple Music installer script for **Windows 10 LTSC (10.0.19044.0)**
 
@@ -5,6 +6,12 @@ Skips most of the boring steps like renaming and patching.
 
 [![Python](https://img.shields.io/badge/python-3.x-blue.svg?logo=python)](https://www.python.org/)
 [![Windows](https://img.shields.io/badge/Windows-10%20LTSC-0078D6?logo=windows)](https://www.microsoft.com/windows)
+
+---
+
+## ⚠️ Requirements
+- **Windows 10 LTSC (10.0.19044.0)**  
+- **Python 3.10.11** → [Download here](https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe)
 
 ---
 
@@ -41,4 +48,4 @@ Add-AppPackage -Register .\AppxManifest.xml
 🙌 Credits
 
 Big thanks to u/z3r0nyaa on Reddit for the original steps.
-Source link
+[Source link](https://www.reddit.com/r/AppleMusic/comments/1fjmelg/comment/lpffkja/)
