@@ -1,5 +1,6 @@
 # 🍎 Apple Music on Windows 10 LTSC  
 An Apple Music installer script for **Windows 10 LTSC (10.0.19044.0)**
+
 Skips most of the boring steps like renaming and patching.
 
 [![Python](https://img.shields.io/badge/python-3.x-blue.svg?logo=python)](https://www.python.org/)
